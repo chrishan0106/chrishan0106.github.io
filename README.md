@@ -1,3 +1,1 @@
----
-permalink: /BK_Website.html
----
+# chrishan0106.github.io
