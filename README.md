@@ -1,3 +1,3 @@
 ---
-permalink: /BK_Website.html
+permalink: /index.html
 ---
